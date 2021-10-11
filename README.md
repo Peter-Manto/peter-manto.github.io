@@ -1,2 +1,2 @@
-# petermanto.github.io
+# peter-manto.github.io
 My personal website
